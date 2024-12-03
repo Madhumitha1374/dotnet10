@@ -1,0 +1,54 @@
+Student Id : 1
+Student Name : Madhu
+Total Marks : 1009089
+Percentage : 93
+Grade id : A
+Result : Passed
+
+-------------------------------
+
+Student Id : 2
+Student Name : Madhavi
+Total Marks : 898783
+Percentage : 86.33
+Grade id : B
+Result : Passed
+
+-------------------------------
+
+Student Id : 3
+Student Name : Ashok
+Total Marks : 566765
+Percentage : 62.67
+Grade id : D
+Result : Passed
+
+-------------------------------
+
+Student Id : 4
+Student Name : Suresh
+Total Marks : 267
+Percentage : 89
+Grade id : B
+Result : Passed
+
+-------------------------------
+
+Student Id : 123
+Student Name : saa
+Total Marks : 224
+Percentage : 74.67
+Grade id : C
+Result : Passed
+
+-------------------------------
+
+Student Id : 123
+Student Name : madhu
+Total Marks : 267
+Percentage : 89
+Grade id : B
+Result : Passed
+
+-------------------------------
+

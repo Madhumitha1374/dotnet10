@@ -1,0 +1,7 @@
+D:\DotNetWorking\ValidDoc\ValidDoc\obj\Debug\ValidDoc.csproj.AssemblyReference.cache
+D:\DotNetWorking\ValidDoc\ValidDoc\obj\Debug\ValidDoc.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\ValidDoc\ValidDoc\bin\Debug\ValidDoc.exe.config
+D:\DotNetWorking\ValidDoc\ValidDoc\bin\Debug\ValidDoc.exe
+D:\DotNetWorking\ValidDoc\ValidDoc\bin\Debug\ValidDoc.pdb
+D:\DotNetWorking\ValidDoc\ValidDoc\obj\Debug\ValidDoc.exe
+D:\DotNetWorking\ValidDoc\ValidDoc\obj\Debug\ValidDoc.pdb
